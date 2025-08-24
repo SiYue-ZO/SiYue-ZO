@@ -5,7 +5,7 @@
 > <h1 align="center">"致力于成为全栈工程师"</h1>
 
 ## 🤝 联系我
-- 📝 Blog [siyue01.top](siyue01.top)
+- 📝 Blog <a href="https://www.mozilla.org/zh-CN/">siyue01.top</a>
 - 📫 Email **2835601846@qq.com**
 
 </p>
@@ -27,8 +27,6 @@
 
 
 
-##  
-![代码提交日历](https://ghchart.rshah.org/SiYue-ZO)
 
 
 
