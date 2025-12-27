@@ -19,11 +19,11 @@
 
 
 >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiYue-ZO)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SiYue-ZO)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub data
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siyue-zo&show_icons=true&locale=en" alt="siyue-zo" /></p>
+![SiYue-ZO](https://github-readme-stats-fast.vercel.app/api?username=siyue-zo&show_icons=true&locale=en)
 
 
 
