@@ -8,8 +8,8 @@
 - 🔭 &nbsp; 一名普通的软件工程专业大学生
 - 🤝 &nbsp; 想认识更多大佬
 - 🌱 &nbsp; 正在学习更多技术
-- 📫 &nbsp; 联系我 **2835601846@qq.com**
-- 📝 &nbsp; 不定期在[siyue01.top](siyue01.top)上撰写文章
+- 📫 &nbsp; 联系我 <2835601846@qq.com>
+- 📝 &nbsp; 不定期在 [siyue01.top](https://siyue01.top) 上撰写文章
 
 </p>
 
