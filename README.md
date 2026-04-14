@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siyue</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Engineer | Embedded & Backend Enthusiast</h3>
-
-<p align="center">
-Building systems from hardware to cloud ☁️
-</p>
+<h3 align="center">🚀 Aspiring Full-Stack Engineer | Embedded & AI Enthusiast</h3>
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 Computer Science student focused on **system-level & full-stack development**
-- 🔧 Hands-on with **embedded systems, backend services, and real-world projects**
+- 🎓 Computer Science student focused on **full-stack development**
+- 🔧 Hands-on with **operating system, backend services, and real-world projects**
 - 🌱 Currently exploring **distributed systems & AI integration**
 - 🤝 Open to collaboration & connecting with developers worldwide
 - ✍️ Writing at: [siyue01.top](https://siyue01.top)
@@ -24,7 +20,7 @@ Building systems from hardware to cloud ☁️
 - **Languages:** C / C++ / Go / Python / TypeScript  
 - **Frontend:** Vue3 + Vite  
 - **Backend:** Go (Gin), Node.js  
-- **Systems:** Linux, Nginx, Docker  
+- **Other:** OpenCV 
 
 ### 🔬 Specialized Areas
 - **Embedded & IoT:** Arduino, OpenCV, Qt  
